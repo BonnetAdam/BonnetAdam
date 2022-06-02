@@ -24,6 +24,7 @@ In the future, I would like to study in development!
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/linux-323330?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Macos-0078D6?style=for-the-badge&logo=macos&logoColor=white  "/>
 </p>
                                 
 <h3>🔎 Contact me</h3>
