@@ -1,7 +1,6 @@
 # 👋 Hey all !
 <h3> 🤗 Presentation</h3>
-・  Hey, my usernamename is Crazy_Out, I'm 17, I'm aprentic web developer (Front end)!
-I'm in first time, JavaScript developer (With discord.js) then almost Full Stack
+・  Hey, my usernamename is Crazy_Out, I'm 17. I'm in first time, JavaScript developer (With discord.js) then almost Full Stack
 In the future, I would like to study in development!
 
 <h3>💻 My technologie</h3>
