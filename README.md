@@ -9,6 +9,13 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+<h4>・ Odoo Version</h4>
+<p>
+  <img alt="Odoo 14" src="https://rb.gy/wgguqq"/>
+  <img alt="Odoo 15" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Odoo 16" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>  
+
 <h4>・ Languages being learned</h4>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
