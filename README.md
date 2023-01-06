@@ -12,8 +12,8 @@
 <h4>・ Odoo Version</h4>
 <p>
   <img alt="Odoo 14" src="https://rb.gy/wgguqq"/>
-  <img alt="Odoo 15" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Odoo 16" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="Odoo 15" src="https://rb.gy/dwdqlx"/>
+  <img alt="Odoo 16" src="https://rb.gy/iee1cr"/>
 </p>  
 
 <h4>・ Languages being learned</h4>
