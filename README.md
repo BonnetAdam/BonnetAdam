@@ -20,7 +20,7 @@
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="XML" src="https://img.shields.io/badge/Xml-14354C?style=for-the-badge&logo=xml&logoColor=white"/>
 </p>  
 
 <h4>・ Operating systems</h4>
