@@ -11,9 +11,9 @@
 
 <h4>・ Odoo Version</h4>
 <p>
-  <img alt="Odoo 14" src="https://rb.gy/wgguqq"/>
-  <img alt="Odoo 15" src="https://rb.gy/dwdqlx"/>
-  <img alt="Odoo 16" src="https://rb.gy/iee1cr"/>
+  <img alt="Odoo 14" src="https://img.shields.io/badge/Odoo-14-%23F9F9F9"/>
+  <img alt="Odoo 15" src="https://img.shields.io/badge/Odoo-15-%23714B67"/>
+  <img alt="Odoo 16" src="https://img.shields.io/badge/Odoo-16-%2300A09D"/>
 </p>  
 
 <h4>・ Languages being learned</h4>
@@ -36,3 +36,8 @@
 <p>
   <a href="https://twitter.com/CrazyOutOFF"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
+
+<h3>・Stats</h3>
+<img align="center" alt="Toky's Stats" src="https://github-readme-stats.vercel.app/api?username=CrazyOutOff&show_icons=true&hide_border=true&theme=tokyonight" />
+<br/>
+<img align="center" alt="Toky's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyOutOff&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" />
