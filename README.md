@@ -36,9 +36,3 @@
 <p>
   <a href="https://twitter.com/CrazyOutOFF"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
-
-<h3>・Stats</h3>
-<img align="center" alt="Toky's Stats" src="https://github-readme-stats.vercel.app/api?username=crazyoutoff&show_icons=true&hide_border=true&theme=tokyonight" />
-
-<br/>
-<img align="center" alt="Toky's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyOutOff&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" />
