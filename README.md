@@ -31,8 +31,3 @@
   <img alt="Linux" src="https://img.shields.io/badge/linux-323330?style=for-the-badge&logo=linux&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Macos-0078D6?style=for-the-badge&logo=macos&logoColor=white  "/>
 </p>
-                                
-<h3>🔎 Contact me</h3>
-<p>
-  <a href="https://twitter.com/CrazyOutOFF"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-</p>
