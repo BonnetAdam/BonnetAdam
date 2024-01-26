@@ -31,3 +31,5 @@
   <img alt="Linux" src="https://img.shields.io/badge/linux-323330?style=for-the-badge&logo=linux&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Macos-0078D6?style=for-the-badge&logo=macos&logoColor=white  "/>
 </p>
+
+[![BonnetAdam's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnetAdam&show_icons=true&theme=dark)](https://github.com/BonnetAdam)
