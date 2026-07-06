@@ -1,35 +1,65 @@
-# 👋 Hey all !
-<h3> 🤗 Presentation</h3>
-・  Hey, my username is Crazy_Out, I'm 20. I'm studying developement at EPSIC.
+# 👋 Hi, I'm Adam (Crazy_Out)
 
-<h3>💻 My technologie</h3>
-<h4>・ Web languages</h4>
+Software Engineer from Switzerland 🇨🇭
+
+I recently graduated from **EPSIC** with a **Swiss CFC in Application Development**.
+I enjoy building scalable software, automation tools, backend services and experimenting with AI and self-hosted infrastructure.
+
+---
+
+## 🚀 What I work with
+
+### Languages
+
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 </p>
 
-<h4>・ Odoo Version</h4>
-<p>
-  <img alt="Odoo 14" src="https://img.shields.io/badge/Odoo-14-%23F9F9F9"/>
-  <img alt="Odoo 15" src="https://img.shields.io/badge/Odoo-15-%23714B67"/>
-  <img alt="Odoo 16" src="https://img.shields.io/badge/Odoo-16-%2300A09D"/>
-</p>  
+### Frameworks & Technologies
 
-<h4>・ Languages being learned</h4>
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="XML" src="https://img.shields.io/badge/Xml-14354C?style=for-the-badge&logo=xml&logoColor=white"/>
-</p>  
-
-<h4>・ Operating systems</h4>
-<p>
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/linux-323330?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Macos-0078D6?style=for-the-badge&logo=macos&logoColor=white  "/>
+  <img src="https://img.shields.io/badge/Odoo-17%20%7C%2018%20%7C%2019-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-[![BonnetAdam's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnetAdam&show_icons=true&theme=dark)](https://github.com/BonnetAdam)
+### DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
+
+### Operating Systems
+
+<p>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+---
+
+## 🔭 Currently working on
+
+- 🤖 Local AI assistant (Ollama + Whisper + Piper)
+- ⚙️ Odoo development
+- 🚀 CI/CD & infrastructure automation
+- 🐍 Python tooling
+- 🏠 HomeKit & self-hosted projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://gitfut.com/bonnetadam.png"/>
+</p>
