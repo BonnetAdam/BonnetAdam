@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adam (Crazy_Out)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+%7C+Odoo+%7C+DevOps;Backend+Developer;Self-hosted+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+%7C+Odoo+%7C+DevOps;Backend+Developer" alt="Typing SVG" />
 </p>
 
 Software Engineer from **Switzerland 🇨🇭**
@@ -50,23 +50,13 @@ I enjoy building scalable backend systems, infrastructure automation, DevOps pip
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
-### Databases & Messaging
+### Databases
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-</p>
-
-### AI
-
-<p>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Piper-6A1B9A?style=flat-square"/>
 </p>
 
 ### Tools
@@ -76,8 +66,6 @@ I enjoy building scalable backend systems, infrastructure automation, DevOps pip
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
 ### Operating Systems
@@ -106,7 +94,7 @@ I enjoy building scalable backend systems, infrastructure automation, DevOps pip
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://gitfut.com/bonnetadam.png" width="900" alt="GitHub statistics"/>
+  <img src="https://gitfut.com/bonnetadam.png" width="200" alt="GitHub statistics"/>
 </p>
 
 ---
